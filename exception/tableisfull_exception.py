@@ -1,0 +1,2 @@
+class TableIsFullException(Exception):
+    pass

@@ -1,0 +1,3 @@
+
+class CommunityHandWithLessThanFiveCardsException(Exception):
+    pass
